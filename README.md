@@ -1,4 +1,4 @@
-**Edit:** After the Black Hat version of our talk on 2016-08-03, it was conveyed to us by Blue Coat that their cert has a path length of 0, thus preventing its use in any sort of wide-ranged HPKP Suicide attack as we'd suggested on stage.
+**Edit:** After the Black Hat version of our talk on 2016-08-03, it was conveyed to us by Blue Coat that their cert has a path length of 0, thus preventing its use in any sort of wide-ranged HPKP Suicide attack as we'd suggested on stage. We haven't yet thoroughly investigated the implications of path length 0, so feel free to investigate on your own and pass on any findings.
 
 ---
 
