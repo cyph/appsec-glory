@@ -1,6 +1,12 @@
-* [heisenberg.co/srifallbackdemo](https://heisenberg.co/srifallbackdemo)
+**Edit:** After the Black Hat version of our talk on 2016-08-03, it was conveyed to us by Blue Coat that their cert has a path length of 0, thus preventing its use in any sort of wide-ranged HPKP Suicide attack as we'd suggested on stage.
 
-* [github.com/cyph/sri-fallback](https://github.com/cyph/sri-fallback)
+---
+
+Slides: [us-16-Zadegan-Abusing-Bleeding-Edge-Web-Standards-For-AppSec-Glory.pdf](https://www.dropbox.com/s/63zlhsuhwtwfd12/us-16-Zadegan-Abusing-Bleeding-Edge-Web-Standards-For-AppSec-Glory.pdf?dl=1)
+
+Demo links:
+
+* [heisenberg.co/srifallbackdemo](https://heisenberg.co/srifallbackdemo)
 
 * [heisenberg.co/sridemo/sameorigin](https://heisenberg.co/sridemo/sameorigin)
 
@@ -10,8 +16,12 @@
 
 * cyph.wang (more specifically, `*.cyph.wang` as a demo HPKP-Supercookie server)
 
-* [github.com/cyph/hpkp-supercookie](https://github.com/cyph/hpkp-supercookie)
-
 * [isis.io](https://isis.io)
+
+Source code links:
+
+* [github.com/cyph/sri-fallback](https://github.com/cyph/sri-fallback)
+
+* [github.com/cyph/hpkp-supercookie](https://github.com/cyph/hpkp-supercookie)
 
 * [github.com/cyph/ransompkp](https://github.com/cyph/ransompkp)
