@@ -4,6 +4,8 @@ To see the techniques discussed (including in-browser code signing) implemented 
 
 Slides: [us-16-Zadegan-Abusing-Bleeding-Edge-Web-Standards-For-AppSec-Glory.pdf](https://www.dropbox.com/s/63zlhsuhwtwfd12/us-16-Zadegan-Abusing-Bleeding-Edge-Web-Standards-For-AppSec-Glory.pdf?dl=1)
 
+Video: [youtu.be/fFdGnJc0EbM](https://youtu.be/fFdGnJc0EbM)
+
 Demo links:
 
 * [heisenberg.co/srifallbackdemo](https://heisenberg.co/srifallbackdemo)
